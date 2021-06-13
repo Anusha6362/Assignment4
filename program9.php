@@ -73,6 +73,7 @@ function findselected(val) {
         $hra=0;
         $pf=0;
         $tax=0;
+        $gross=0;
         if ($cat == 'part_time')
         {
 
